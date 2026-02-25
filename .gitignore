@@ -1,3 +1,8 @@
 .DS_Store
 pretraining/model.pth
 pretraining/model_and_optimizer.pth
+
+GPT-2-weights/model.pth
+GPT-2-weights/model_and_optimizer.pth
+GPT-2-weights/__pycache__/
+GPT-2-weights/gpt2

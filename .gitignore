@@ -2,9 +2,13 @@
 pretraining/model.pth
 pretraining/model_and_optimizer.pth
 
-GPT-2-weights/model.pth
-GPT-2-weights/model_and_optimizer.pth
-GPT-2-weights/__pycache__/
-GPT-2-weights/gpt2
+gpt2_weights/model.pth
+gpt2_weights/model_and_optimizer.pth
+gpt2_weights/__pycache__/
+gpt2_weights/gpt2
 
 finetuning/sms_spam_collection/
+finetuning/model.pth
+finetuning/model_and_optimizer.pth
+finetuning/__pycache__/
+finetuning/gpt2

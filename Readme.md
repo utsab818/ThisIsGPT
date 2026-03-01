@@ -4,4 +4,4 @@ Building nanoGPT.
 
 Finetuning
 
-![alt text](finetuning/image.png)
+![alt text](finetuningSpamClassification/image.png)

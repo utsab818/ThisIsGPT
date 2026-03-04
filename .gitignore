@@ -19,3 +19,4 @@ instructionFinetuning/model.pth
 instructionFinetuning/model_and_optimizer.pth
 instructionFinetuning/__pycache__/
 instructionFinetuning/gpt2
+instructionFinetuning/gpt2-medium355M-sft.pth

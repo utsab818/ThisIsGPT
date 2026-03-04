@@ -14,3 +14,8 @@ finetuningSpamClassification/__pycache__/
 finetuningSpamClassification/gpt2
 finetuningSpamClassification/review_classifier.pth
 finetuningSpamClassification/sms_spam_collection.zip
+
+instructionFinetuning/model.pth
+instructionFinetuning/model_and_optimizer.pth
+instructionFinetuning/__pycache__/
+instructionFinetuning/gpt2

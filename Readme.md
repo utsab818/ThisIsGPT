@@ -27,7 +27,7 @@ ThisIsGPT/
 ├─ attention/                       # Attention mechanisms
 ├─ data_preprocessing/              # Dataset preprocessing
 ├─ pretraining/                     # Pretraining scripts
-├─ finetuningSpamClassification/   # Spam classification fine-tuning
+├─ finetuningSpamClassification/    # Spam classification fine-tuning
 ├─ instructionFinetuning/           # Instruction-based fine-tuning with Llama3 evaluation
 ├─ gpt2_weights/                    # Saved model weights
 ├─ story_dataset.txt                # Sample dataset
